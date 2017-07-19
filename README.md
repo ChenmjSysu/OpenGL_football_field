@@ -39,12 +39,12 @@
 
 ### 四叶草形状烟花
 <div align=center>
-<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_4.png" width = "500" alt="四叶草形状烟花" align=center />
+<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_5.png" width = "500" alt="四叶草形状烟花" align=center />
 </div>
 
 ### 脚印形状烟花
 <div align=center>
-<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_5.png" width = "500" alt="脚印形状烟花" align=center />
+<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_4.png" width = "500" alt="脚印形状烟花" align=center />
 </div>
 
 ### 螺旋形状烟花
