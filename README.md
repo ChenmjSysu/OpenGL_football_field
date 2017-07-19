@@ -23,7 +23,9 @@
 
 ## 预览
 ### 球门
-<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_1.png" width = "300" alt="球门" align=center />
+<div align=center>
+<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_1.png" width = "600" alt="球门" align=center />
+</div>
 
 ### 地形渲染
 <img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_2.png" width = "300" alt="地形渲染" align=center />
