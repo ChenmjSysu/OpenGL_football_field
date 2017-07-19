@@ -22,8 +22,9 @@
 
 
 ## 预览
-### 球门
+
 <div align=center>
+### 球门
 <img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_1.png" width = "600" alt="球门" align=center />
 </div>
 
