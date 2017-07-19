@@ -22,23 +22,32 @@
 
 
 ## 预览
-
-<div align=center>
 ### 球门
-<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_1.png" width = "600" alt="球门" align=center />
+<div align=center>
+<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_1.png" width = "500" alt="球门" align=center />
 </div>
 
 ### 地形渲染
-<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_2.png" width = "300" alt="地形渲染" align=center />
+<div align=center>
+<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_2.png" width = "500" alt="地形渲染" align=center />
+</div>
 
 ### 圆形烟花
-<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_3.png" width = "300" alt="圆形烟花" align=center />
+<div align=center>
+<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_3.png" width = "500" alt="圆形烟花" align=center />
+</div>
 
 ### 四叶草形状烟花
-<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_4.png" width = "300" alt="四叶草形状烟花" align=center />
+<div align=center>
+<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_4.png" width = "500" alt="四叶草形状烟花" align=center />
+</div>
 
 ### 脚印形状烟花
-<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_5.png" width = "300" alt="脚印形状烟花" align=center />
+<div align=center>
+<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_5.png" width = "500" alt="脚印形状烟花" align=center />
+</div>
 
 ### 螺旋形状烟花
-<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_6.png" width = "300" alt="螺旋形状烟花" align=center />
+<div align=center>
+<img src="https://github.com/ChenmjSysu/repertory/blob/master/images/OpenGL_football_field_6.png" width = "500" alt="螺旋形状烟花" align=center />
+</div>
